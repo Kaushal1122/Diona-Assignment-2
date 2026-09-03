@@ -2,9 +2,9 @@
 
 ## Video Explanation
 
-**Google Drive Video:** [Watch the project explanation](PASTE_GOOGLE_DRIVE_VIDEO_LINK_HERE)
+**Google Drive Video:** [Watch the project explanation](https://drive.google.com/drive/folders/1uKjkoCSNW_0EGvZtackk_Ls2zJ4LHiMa?usp=sharing)
 
-> **Important:** Replace `PASTE_GOOGLE_DRIVE_VIDEO_LINK_HERE` with the actual Google Drive video link before submitting the repository.
+
 
 ---
 
